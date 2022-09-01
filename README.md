@@ -39,7 +39,7 @@ JS file has been changed:
 
 The following image shows the web application's appearance and functionality:
 
-![The day planner shows the current date and color coded time blocks adding the events feature.](assets/css/images/05-third-party-apis-homework-demo.gif)
+![The day planner shows the current date and color coded time blocks adding the events feature.](/assets/css/images/05-third-party-apis-homework-demo.gif)
 
 
 ## Credits
